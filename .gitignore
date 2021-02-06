@@ -1,0 +1,5 @@
+# vscode environment configuration files
+.vscode
+
+# data files
+data/*.gz
