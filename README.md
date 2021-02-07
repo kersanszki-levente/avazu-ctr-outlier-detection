@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This repository contains a solution for the Avazu CTR Outlier Detection challenge. The avazu_outlier_detection.ipynb file contains the solution and below you can read instructions on how to open the notebook. You can find the original 
+This repository contains a solution for the Avazu CTR Outlier Detection challenge. The avazu_outlier_detection.ipynb file contains the solution and below you can read instructions on how to open the notebook.
 
 ## How can I run this?
 
@@ -30,7 +30,7 @@ The notebook assumes the existence of the avazu ctr challenge dataset on your ma
 
 The downloaded file will be a zip file which you can decompress with unzip and then discard it:
 
-> unzip avazu-ctr-prediction.zip
+> unzip avazu-ctr-prediction.zip  
 > rm avazu-ctr-prediction.zip
 
 The unzipped data files will be compressed with gunzip, but the notebook relies on pandas to take care of that during runtime. Make sure that you copy the downloaded files to the data directory or - if you have a dedicated place for large files elsewhere in your system - use a symbolic link instead:
